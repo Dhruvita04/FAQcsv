@@ -1,0 +1,676 @@
+question,intent
+Can I talk to a agent,talk_to_agent
+Can I please talk to a agent,talk_to_agent
+Let me talk to a agent,talk_to_agent
+I don't like speaking to a robot,talk_to_agent
+i want to talk to a agent,talk_to_agent
+can i talk to a  agent,talk_to_agent
+will you please connect me to a agent,talk_to_agent
+talk to human,talk_to_agent
+i want talk to human,talk_to_agent
+any human agent,talk_to_agent
+connect to agents,talk_to_agent
+connect to customer service executive,talk_to_agent
+sweet dreams,st_goodnight
+good night,st_goodnight
+have a good night,st_goodnight
+good night to you,st_goodnight
+thank you good night,st_goodnight
+bye good night,st_goodnight
+Hii,st_greetings
+Hi,st_greetings
+Hello,st_greetings
+Hey.,st_greetings
+Hi There!,st_greetings
+hello there,st_greetings
+heya,st_greetings
+hiii,st_greetings
+okay see you later,st_goodbye
+hope to see you later,st_goodbye
+bye for now,st_goodbye
+till next time,st_goodbye
+bye,st_goodbye
+goodbye,st_goodbye
+see you,st_goodbye
+How to set up a business?,how_to_set_up_a_business
+How to obtain a Business Registration Card/ Number?,how_to_obtain_a_business_registration_card_number
+Is registration compulsory?,is_registration_compulsory
+Who can apply for the Certificate?,who_can_apply_for_the_certificate
+How can the application be made?,how_can_the_application_be_made
+What are the Documents to be submitted when applying for registration?,what_are_the_documents_to_be_submitted_when_applying_for_registration
+What happens after the application?,what_happens_after_the_application
+Can I utilize the SME Certificate instead of a trade licence (Payment of Trade Fee)?,can_i_utilize_the_sme_certificate_instead_of_a_trade_licence_(payment_of_trade_fee)
+Is the Application for Registration free of charge?,is_the_application_for_registration_free_of_charge
+Validity of the SME Certificate?,validity_of_the_sme_certificate
+Can the SME Certificate be amended?,can_the_sme_certificate_be_amended
+What is the definition of SME,what_is_the_definition_of_sme
+How and where to apply for Registration Certificate for Mid-Market Enterprise,how_and_where_to_apply_for_registration_certificate_for_mid-market_enterprise
+Who can apply for SME Registration Certificate,who_can_apply_for_sme_registration_certificate
+Who can apply for Registration Certificate for Mid-Market Enterprise,who_can_apply_for_registration_certificate_for_mid-market_enterprise
+Documents to be submitted when applying as Individual,documents_to_be_submitted_when_applying_as_individual
+Documents to be submitted when applying as Company,documents_to_be_submitted_when_applying_as_company
+Documents to be submitted when applying as Societe/ Partnership,documents_to_be_submitted_when_applying_as_societe_partnership
+How to apply for SME Registration Certificate online,how_to_apply_for_sme_registration_certificate_online
+How to check that an online application has been successfully made,how_to_check_that_an_online_application_has_been_successfully_made
+How to apply for Registration Certificate for Mid-Market Enterprise,how_to_apply_for_registration_certificate_for_mid-market_enterprise
+Is there any fee payable for the issue of a SME Registration Certificate,is_there_any_fee_payable_for_the_issue_of_a_sme_registration_certificate
+Is there any fee payable for the issue of a Registration Certificate for Mid-Market Enterprise,is_there_any_fee_payable_for_the_issue_of_a_registration_certificate_for_mid-market_enterprise
+How to renew SME Registration Certificate or Registration Certificate for Mid-Market Enterprise,how_to_renew_sme_registration_certificate_or_registration_certificate_for_mid-market_enterprise
+I have changes to bring the SME Registration Certificate or Registration Certificate for Mid-Market Enterprise,i_have_changes_to_bring_the_sme_registration_certificate_or_registration_certificate_for_mid-market_enterprise
+User account password not received following creation of user account online,user_account_password_not_received_following_creation_of_user_account_online
+"User account password not received after opting for ""Forgot Password"" online","user_account_password_not_received_after_opting_for_""forgot_password""_online"
+Saving online application as draft application. What does it mean and imply,saving_online_application_as_draft_application_what_does_it_mean_and_imply
+How to apply for Duplicate SME Registration Certificate or Duplicate Registration Certificate for Mid-Market Enterprise,how_to_apply_for_duplicate_sme_registration_certificate_or_duplicate_registration_certificate_for_mid-market_enterprise
+What is the obligation of the registered SMEs / Mid-Market Enterprises in case of cessation of business activity,what_is_the_obligation_of_the_registered_smes_mid-market_enterprises_in_case_of_cessation_of_business_activity
+How to get a list of registered SMEs,how_to_get_a_list_of_registered_smes
+What are SME Support & Schemes available,what_are_sme_support_&_schemes_available
+What Govt financial support can SMEs get,what_govt_financial_support_can_smes_get
+Financial Support to SMEs given by commercial banks and leasing companies,financial_support_to_smes_given_by_commercial_banks_and_leasing_companies
+Where can SMEs get support to export,where_can_smes_get_support_to_export
+Support given to SMEs to lease industrial building,support_given_to_smes_to_lease_industrial_building
+"About SMEs Division, Minister, Mission and Vision, Key Staff, Legislation, Contact or other info",about_smes_division_minister_mission_and_vision_key_staff_legislation_contact_or_other_info
+What documents are required for a transfer of a pupil from a Government school (GS) to another GS,what_documents_are_required_for_a_transfer_of_a_pupil_from_a_government_school_(gs)_to_another_gs
+What documents are required for a transfer of a pupil from a Government school (GS) to a RCA School (SEDEC),what_documents_are_required_for_a_transfer_of_a_pupil_from_a_government_school_(gs)_to_a_rca_school_(sedec)
+How many Government Primary Schools are there in Zone 3?,how_many_government_primary_schools_are_there_in_zone_3
+How many SEDEC/RCA Primary Schools are there in Zone 3?,how_many_sedecrca_primary_schools_are_there_in_zone_3
+What is the procedure to be followed in case a pupil is transferred from a private primary school to a public primay school?,what_is_the_procedure_to_be_followed_in_case_a_pupil_is_transferred_from_a_private_primary_school_to_a_public_primay_school
+How do inspectors monitor the proper implementation of EDLP at schools?,how_do_inspectors_monitor_the_proper_implementation_of_edlp_at_schools
+What is the aim/purpose of the PSR?,what_is_the_aimpurpose_of_the_psr
+Why the PSR?,why_the_psr
+When is the instrument administered?,when_is_the_instrument_administered
+What is the design of HKP?,what_is_the_design_of_hkp
+What is the goal of the programme?,what_is_the_goal_of_the_programme
+What is the target group?,what_is_the_target_group
+What is the design of the project?,what_is_the_design_of_the_project
+Participation in 2020,participation_in_2020
+Who can apply for entry into the SRM Registry?,who_can_apply_for_entry_into_the_srm_registry
+Where must I go for registration for SRM?,where_must_i_go_for_registration_for_srm
+How to access the Human Resource Development and Training Division website?,how_to_access_the_human_resource_development_and_training_division_website
+Which departments fall under the purview of the Human Resource Development and Training Division?,which_departments_fall_under_the_purview_of_the_human_resource_development_and_training_division
+What is the activities of the Human Resource Development and Training Division?,what_is_the_activities_of_the_human_resource_development_and_training_division
+I am unemployed and looking for a job. Where can I find available vacancies?,i_am_unemployed_and_looking_for_a_job_where_can_i_find_available_vacancies
+I am looking for job prospects/job opportunity in the Government Sector? How to apply?,i_am_looking_for_job_prospectsjob_opportunity_in_the_government_sector_how_to_apply
+I am looking for job prospects/job opportunity abroad? How to apply?,i_am_looking_for_job_prospectsjob_opportunity_abroad_how_to_apply
+I am a degree holder and still unemployed.,i_am_a_degree_holder_and_still_unemployed
+Can I be guided to a company for job placement?,can_i_be_guided_to_a_company_for_job_placement
+"I have been through several interviews, however, I was not offered any job. What should I do?",i_have_been_through_several_interviews_however_i_was_not_offered_any_job_what_should_i_do
+Which is the nearest employment office for me?,which_is_the_nearest_employment_office_for_me
+"Where do I need to go for ""Stamp Card""","where_do_i_need_to_go_for_""stamp_card"""
+"Will ""Stamp Card ""  help me get a job?","will_""stamp_card_help_me_get_a_job"
+"I have been ""Stamping Card"" since past few years, however, I am still unemployed","i_have_been_""stamping_card""_since_past_few_years_however_i_am_still_unemployed"
+What are the services provided by the Careers Guidance Service Unit?,what_are_the_services_provided_by_the_careers_guidance_service_unit
+Where is  the Career Guidance Service Unit located ?,where_is_the_career_guidance_service_unit_located
+How to contact the Career Guidance Service Unit?,how_to_contact_the_career_guidance_service_unit
+How to contact /book an appointment with a Career Counsellor,how_to_contact_book_an_appointment_with_a_career_counsellor
+Does the Career Guidance Service Unit certify educational certificates?,does_the_career_guidance_service_unit_certify_educational_certificates
+Which documents should I bring along if I want to get my educational certificates certified?,which_documents_should_i_bring_along_if_i_want_to_get_my_educational_certificates_certified
+What are the opening hours of the Career Guidance Service Unit ?,what_are_the_opening_hours_of_the_career_guidance_service_unit
+How will the Career Counsellor assist me?,how_will_the_career_counsellor_assist_me
+How will I get my work permt claim for payment,how_will_i_get_my_work_permt_claim_for_payment
+How should the payment of fees regarding work permit be effected?,how_should_the_payment_of_fees_regarding_work_permit_be_effected
+How to collect my work permit?,how_to_collect_my_work_permit
+Can I have another copy of my work permit in case the original is lost?,can_i_have_another_copy_of_my_work_permit_in_case_the_original_is_lost
+Under which act is the Work Permit governed?,under_which_act_is_the_work_permit_governed
+What is a work permit?,what_is_a_work_permit
+"Can I work, be employed or engage in an occupation for reward or profit without a work permit ?",can_i_work_be_employed_or_engage_in_an_occupation_for_reward_or_profit_without_a_work_permit
+How to apply for a new work permit?,how_to_apply_for_a_new_work_permit
+Can someone with dependant residence permit apply for work permit?,can_someone_with_dependant_residence_permit_apply_for_work_permit
+How to apply for a renewal work permit?,how_to_apply_for_a_renewal_work_permit
+Do I have to submit residence permit application while applying for work permit?,do_i_have_to_submit_residence_permit_application_while_applying_for_work_permit
+Do I need a Lodging Accomodation Permit while applying for work permit?,do_i_need_a_lodging_accomodation_permit_while_applying_for_work_permit
+Who can apply for a work permit?,who_can_apply_for_a_work_permit
+Can a foreign worker apply for a work permit directly?,can_a_foreign_worker_apply_for_a_work_permit_directly
+"For application of work permit, a vetted Contract of Employment is required.What is a vetted Contract of Employment ?",for_application_of_work_permit_a_vetted_contract_of_employment_is_requiredwhat_is_a_vetted_contract_of_employment
+"For application of work permit, a provisional health clearance is required. What is a Provisional Health Clearance ?",for_application_of_work_permit_a_provisional_health_clearance_is_required_what_is_a_provisional_health_clearance
+"For work permit application, why is  a PIP (Permission in Principle)/Quota required  ?",for_work_permit_application_why_is_a_pip_(permission_in_principle)quota_required
+"For recruitment up to 5 foreign workers, do I need a (Permission in Principle)/Quota?",for_recruitment_up_to_5_foreign_workers_do_i_need_a_(permission_in_principle)quota
+Where can I find the checklist required for application of work permit?,where_can_i_find_the_checklist_required_for_application_of_work_permit
+How to recruit Indian workers ?,how_to_recruit_indian_workers
+Can I make an appeal if mywork permit application is turned down or rejected?,can_i_make_an_appeal_if_mywork_permit_application_is_turned_down_or_rejected
+​​Can documents submitted for work permit application be in any language?,​​can_documents_submitted_for_work_permit_application_be_in_any_language
+Can I collect my work permit?,can_i_collect_my_work_permit
+Can I have another work permit in case of loss of the original one?,can_i_have_another_work_permit_in_case_of_loss_of_the_original_one
+How to cancel the application for my work permit?,how_to_cancel_the_application_for_my_work_permit
+Can I have my claim for payment of work permit fees by fax?,can_i_have_my_claim_for_payment_of_work_permit_fees_by_fax
+Can the company sign the application form for work permit on behalf of the expatriate?,can_the_company_sign_the_application_form_for_work_permit_on_behalf_of_the_expatriate
+Does a foreigner married to a Mauritian citizen need a work permit?,does_a_foreigner_married_to_a_mauritian_citizen_need_a_work_permit
+For how long can a skilled expatriate worker work in Mauritius?,for_how_long_can_a_skilled_expatriate_worker_work_in_mauritius
+I have a new passport. Can I get a fresh work permit with the new passport number?,i have_a_new_passport_can_i_get_a_fresh_work_permit_with_the_new_passport_number
+I have got my work permit. Can I have my residence permit?,i_have_got_my_work_permit_can_i_have_my_residence_permit
+"In case the offer of employment is made by a company, should that company be incorporated in Mauritius?",in_case_the_offer_of_employment_is_made_by_a_company_should_that_company_be_incorporated_in_mauritius
+Under what circumstances may a work permit be cancelled?,under_what_circumstances_may_a_work_permit_be_cancelled
+Will a work permit application be accepted if any document is missing?,will_a_work_permit_application_be_accepted_if_any_document_is_missing
+When should application for renewal of work permit be submitted?,when_should_application_for_renewal_of_work_permit_be_submitted
+Deadline for payment of Application/Processing fee of work permit ?,deadline_for_payment_of_applicationprocessing_fee_of_work_permit
+Deadline for payment of work permit fee?,deadline_for_payment_of_work_permit_fee
+how payment of processing and work permit fee can be done ?,how_payment_of_processing_and_work_permit_fee_can_be_done
+what to do when my work permit application has been set aside?,what_to_do_when_my_work_permit_application_has_been_set_aside
+"For application of work permit, who should be a registered user?",for_application_of_work_permit_who_should_be_a_registered_user
+"When to use the option application type ""Individual"" in the work permit application form ?","when_to_use_the_option_application_type_""individual""_in_the_work_permit_application_form"
+Will I be required to provide any additional document or information after already paying the processing fee?,will_i_be_required_to_provide_any_additional_document_or_information_after_already_paying_the_processing_fee
+What is the Procedure and documents needed for Transfer from one company to another ?,what_is_the_procedure_and_documents_needed_for_transfer_from_one_company_to_another
+How much does it cost to issue a Duplicate Work Permit ?,how_much_does_it_cost_to_issue_a_duplicate_work_permit
+Work Permit Fees for Employees in gaming and other similar activities,work_permit_fees_for_employees_in_gaming_and_other_similar_activities
+What are the Work Permit fees payable ?,what_are_the_work_permit_fees_payable
+How many penalty fees rin relation to the work permit are payable ?,how_many_penalty_fees_rin_relation_to_the_work_permit_are_payable
+"What is the work Permit Fees for Employees in any manufacturing 
+industry","what_is_the_work_permit_fees_for_employees_in_any_manufacturing_
+industry"
+"In relation to work permit application, what is the Quota Applicable for my company?",in_relation_to_work_permit_application_what_is_the_quota_applicable_for_my_company
+Can a self employed person reruit foreign workers?,can_a_self_employed_person_reruit_foreign_workers
+How to recruit Foreign Workers?,how_to_recruit_foreign_workers
+How to use the National E-Licensing System  (NELS)  to apply for Work Permit?,how_to_use_the_national_e-licensing_system_(nels)_to_apply_for_work_permit
+How to use the NSDC PLATFORM to recruit INDIAN WORKERS?,how_to_use_the_nsdc_platform_to_recruit_indian_workers
+How to apply for a TRANSFER CASE?,how_to_apply_for_a_transfer_case
+"How to Register for WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) ?","how_to_register_for_women_back_to_work_programme_
+(wbtwp)"
+"Which documents to be produced for registration of WOMEN BACK TO WORK PROGRAMME 
+(WBTWP)?","which_documents_to_be_produced_for_registration_of_women_back_to_work_programme_
+(wbtwp)"
+"How to register online on the WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) website?","how_to_register_online_on_the_women_back_to_work_programme_
+(wbtwp)_website"
+"What are the conditions to be eligible for WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) ?","what_are_the_conditions_to_be_eligible_for_women_back_to_work_programme_
+(wbtwp)"
+"How to contact the WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) Secretariat?","how_to_contact_the_women_back_to_work_programme_
+(wbtwp)_secretariat"
+"What is the stipend paid during the palcement period for WOMEN BACK TO WORK PROGRAMME 
+(WBTWP)?","what_is_the_stipend_paid_during_the_palcement_period_for_women_back_to_work_programme_
+(wbtwp)"
+"What is the stipend for short training courses under WOMEN BACK TO WORK PROGRAMME 
+(WBTWP)?","what_is_the_stipend_for_short_training_courses_under_women_back_to_work_programme_
+(wbtwp)"
+"What is the duration of placement under the WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) programme?","what_is_the_duration_of_placement_under_the_women_back_to_work_programme_
+(wbtwp)_programme"
+"Do Trainees under WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) programme contribute to the CSG?","do_trainees_under_women_back_to_work_programme_
+(wbtwp)_programme_contribute_to_the_csg"
+"Are trainees under the WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) paid transport allowance?","are_trainees_under_the_women_back_to_work_programme_
+(wbtwp)_paid_transport_allowance"
+"Are trainees under the WOMEN BACK TO WORK PROGRAMME 
+(WBTWP) paid End of Year Bonus?","are_trainees_under_the_women_back_to_work_programme_
+(wbtwp)_paid_end_of_year_bonus"
+How to  register for Trainee Engineer Scheme (TES)?,how_to_register_for_trainee_engineer_scheme_(tes)
+What is the stipend under the Trainee Engineer Scheme (TES)?,what_is_the_stipend_under_the_trainee_engineer_scheme_(tes)
+Is Bus fare/ Transport provided to trainees under the Trainee Engineer Scheme (TES)?,is_bus_fare_transport_provided_to_trainees_under_the_trainee_engineer_scheme_(tes)
+Is End of Year Bonuses provided to trainees under the Trainee Engineer Scheme (TES)?,is_end_of_year_bonuses_provided_to_trainees_under_the_trainee_engineer_scheme_(tes)
+How to register for Trainee Land Surveyor Scheme (TLSS)?,how_to_register_for_trainee_land_surveyor_scheme_(tlss)
+What is the stipend under the Trainee Land Surveyor Scheme (TLSS)?,what_is_the_stipend_under_the_trainee_land_surveyor_scheme_(tlss)
+Is Bus fare/ Transport provided to trainees under the Trainee Land Surveyor Scheme (TLSS)?,is_bus_fare_transport_provided_to_trainees_under_the_trainee_land_surveyor_scheme_(tlss)
+Is End of Year Bonus provided to trainees under the Trainee Land Surveyor Scheme (TLSS),is_end_of_year_bonus_provided_to_trainees_under_the_trainee_land_surveyor_scheme_(tlss)
+What is  Dual Training Programme (DTP)?,what_is_dual_training_programme_(dtp)
+What is the stipend provided to the trainees for the Dual Training Programme (DTP)?,what_is_the_stipend_provided_to_the_trainees_for_the_dual_training_programme_(dtp)
+What are the procedures for an employer to participate  under Dual Training Programme (DTP)?,what_are_the_procedures_for_an_employer_to_participate_under_dual_training_programme_(dtp)
+What is the level of training courses provided under Dual Training Programme (DTP)?,what_is_the_level_of_training_courses_provided_under_dual_training_programme_(dtp)
+What are the eligibility criteria for candidates to participate in the DTP ?,what_are_the_eligibility_criteria_for_candidates_to_participate_in_the_dtp
+What are the contact details for the Dual Training Programme (DTP)?,what_are_the_contact_details_for_the_dual_training_programme_(dtp)
+What is the Training and Placement of Persons with Disabilities (TPPWD) Programme?,what_is_the_training_and_placement_of_persons_with_disabilities_(tppwd)_programme
+What are the conditions to be eligible for the participation in the Training and Placement of Persons with Disabilities (TPPWD) Programme?,what_are_the_conditions_to_be_eligible_for_the_participation_in_the_training_and_placement_of_persons_with_disabilities_(tppwd)_programme
+What is the duration of the TPPWD Programme?,what_is_the_duration_of_the_tppwd_programme
+What is the stipend for the  Training and Placement of Persons with Disabilities (TPPWD) Programme?,what_is_the_stipend_for_the_training_and_placement_of_persons_with_disabilities_(tppwd)_programme
+What are the procedures for the  Organisation for participation in the TPPWD Programme?,what_are_the_procedures_for_the_organisation_for_participation_in_the_tppwd_programme
+What are the contact details for the Training and Placement of Persons with Disabilities (TPPWD) Programme?,what_are_the_contact_details_for_the_training_and_placement_of_persons_with_disabilities_(tppwd)_programme
+How to register for Youth Employment Programme (YEP)?,how_to_register_for_youth_employment_programme_(yep)
+What are the eligibility criteria for theouth Employment Programme (YEP),what_are_the_eligibility_criteria_for_theouth_employment_programme_(yep)
+Do Youth Employment Programme (YEP) trainee's contributes  to CSG?,do_youth_employment_programme_(yep)_trainees_contributes_to_csg
+Do Youth Employment Programme (YEP) trainee's receives transport allowance?,do_youth_employment_programme_(yep)_trainees_receives_transport_allowance
+Are Youth Employment Programme (YEP) Trainee's entitled for leaves,are_youth_employment_programme_(yep)_trainees_entitled_for_leaves
+Will Youth Employment Programme (YEP) Trainee's  be recruited on a permanent basis after completion of the placement,will_youth_employment_programme_(yep)_trainees_be_recruited_on_a_permanent_basis_after_completion_of_the_placement
+What is the duration of the Youth Employment Programme (YEP) ?,what_is_the_duration_of_the_youth_employment_programme_(yep)
+What is the procedure to register under outh Employment Programme (YEP)  as an employer?,what_is_the_procedure_to_register_under_outh_employment_programme_(yep)_as_an_employer
+NELS Login account issue,nels_login_account_issue
+How to apply for Work permit,how_to_apply_for_work_permit
+Work Permit Application Issue,work_permit_application_issue
+Renewal of Work Permit,renewal_of_work_permit
+Who is eligible for a work permit,who_is_eligible_for_a_work_permit
+Which law covers the grant of a work permit,which_law_covers_the_grant_of_a_work_permit
+Registration as a Jobseeker,registration_as_a_jobseeker
+Who can register as Jobseeker,who_can_register_as_jobseeker
+Job Search,job_search
+Posting of Job Vacancies,posting_of_job_vacancies
+What are the training and programs available,what_are_the_training_and_programs_available
+How to get a career counseling session,how_to_get_a_career_counseling_session
+Where to submit an application for Residence Permit for Student?,where_to_submit_an_application_for_residence_permit_for_student
+Where to submit an application for Residence Permit for Internship,where_to_submit_an_application_for_residence_permit_for_internship
+How many hours does a student allow to work?,how_many_hours_does_a_student_allow_to_work
+Can a Tourist apply for a Student Visa?,can_a_tourist_apply_for_a_student_visa
+Is a Student Visa/Internship Permit  free of Charge?,is_a_student_visainternship_permit_free_of_charge
+Who need  to apply for a Wedding Visa before travelling to Mauritius,who_need_to_apply_for_a_wedding_visa_before_travelling_to_mauritius
+Qui doit faire une demande de Visa de Mariage avant d'effectuer son voyage a cette effet,qui_doit_faire_une_demande_de_visa_de_mariage_avant_deffectuer_son_voyage_a_cette_effet
+What are the procedures to follow for the application of a Residence Permti as Spouse of Citizen of Mauritius,what_are_the_procedures_to_follow_for_the_application_of_a_residence_permti_as_spouse_of_citizen_of_mauritius
+Does a Spouse of a Citizen of Mauritius allow to take up employment in Mauritius,does_a_spouse_of_a_citizen_of_mauritius_allow_to_take_up_employment_in_mauritius
+Can a dependent child of age work?,can_a_dependent_child_of_age_work
+Can a dependent child of age get married to a Citizen of Mauritius?,can_a_dependent_child_of_age_get_married_to_a_citizen_of_mauritius
+Where and How to apply for a Residence Permit as IRS/RES/PDS/SCS,where_and_how_to_apply_for_a_residence_permit_as_irsrespdsscs
+"What do I do if  my Residence Permit as Spouse of Citizen got Lost, damaged or stolen",what_do_i_do_if_my_residence_permit_as_spouse_of_citizen_got_lost_damaged_or_stolen
+Can I continue to stay in Mauritius following a divorce or death of Spouse?,can_i_continue_to_stay_in_mauritius_following_a_divorce_or_death_of_spouse
+Should I call personally to submit an application for Mauritius Passport,should_i_call_personally_to_submit_an_application_for_mauritius_passport
+Where can I have an application form for a New or   Renewal of Mauritius Passport,where_can_i_have_an_application_form_for_a_new_or_renewal_of_mauritius_passport
+What are the required document to submit on application for a new passport or renewal of a passport,what_are_the_required_document_to_submit_on_application_for_a_new_passport_or_renewal_of_a_passport
+Are the documents produced on the submission on application for a new passport or renewal of a passport should be less than 06 months,are_the_documents_produced_on_the_submission_on_application_for_a_new_passport_or_renewal_of_a_passport_should_be_less_than_06_months
+What is the procedure if a non citizen has lost his/her:-                                                           (a) Passport?   (b) Residence Permit/ Occupation Permit?,what_is_the_procedure_if_a_non_citizen_has_lost_hisher-_(a)_passport_(b)_residence_permit_occupation_permit
+"I am a Mauritian citizen abroad, I lost my passport which is still valid, can you help me with the formalities to apply for a new one?",i_am_a_mauritian_citizen_abroad_i_lost_my_passport_which_is_still_valid_can_you_help_me_with_the_formalities_to_apply_for_a_new_one
+Who is eligible for a Mauritius Passport?,who_is_eligible_for_a_mauritius_passport
+"After how many days, may I come and collect my passport after submitting my application.",after_how_many_days_may_i_come_and_collect_my_passport_after_submitting_my_application
+What document is required for the collection of my passport?,what_document_is_required_for_the_collection_of_my_passport
+Collection of Passport,collection_of_passport
+Which website can I consult to have information on the Passport Office,which_website_can_i_consult_to_have_information_on_the_passport_office
+Where to submit an application for a new passport or renewal of my Mauritius Passport if abroad,where_to_submit_an_application_for_a_new_passport_or_renewal_of_my_mauritius_passport_if_abroad
+How many days before a non citizen need to apply for a visa prior to travel to Mauritius,how_many_days_before_a_non_citizen_need_to_apply_for_a_visa_prior_to_travel_to_mauritius
+Where and how to apply for extension of stay of a non citizen,where_and_how_to_apply_for_extension_of_stay_of_a_non_citizen
+What is a Premium Visa,what_is_a_premium_visa
+Does visa issuance and extension of stay free of charges?,does_visa_issuance_and_extension_of_stay_free_of_charges
+Should I call personally at the Passport and Immigration Office for an Extension of Visa.,should_i_call_personally_at_the_passport_and_immigration_office_for_an_extension_of_visa
+How to apply for a premium visa?,how_to_apply_for_a_premium_visa
+What do I risk if I continue to stay in Mauritius after the expiry of my Residence Permit/ Occupation Permit or visa?,what_do_i_risk_if_i_continue_to_stay_in_mauritius_after_the_expiry_of_my_residence_permit_occupation_permit_or_visa
+"What is the procedure, if I want to travel back to Mauritius after having been served with a notice at the Border, that I should not undertake any travel to Mauritius without prior approval from the Passport and Immigration Office?",what_is_the_procedure_if_i_want_to_travel_back_to_mauritius_after_having_been_served_with_a_notice_at_the_border_that_i_should_not_undertake_any_travel_to_mauritius_without_prior_approval_from_the_passport_and_immigration_office
+Can a Retired Non-Citizen apply for a Residence Permit?,can_a_retired_non-citizen_apply_for_a_residence_permit
+How to apply for an Occupation Permit?,how_to_apply_for_an_occupation_permit
+How to know whether an application has been approved or rejected?,how_to_know_whether_an_application_has_been_approved_or_rejected
+Which type of visa is required at the time of appointment for an Occupation Permit?,which_type_of_visa_is_required_at_the_time_of_appointment_for_an_occupation_permit
+What is the duration of an Occupation/Residence Permit?,what_is_the_duration_of_an_occupationresidence_permit
+"Can an Occupation Permit holder apply for a Residence Permit in favour of his spouse, Common Law Partner, legitimate child, step child,  lawfully adopted child, mother and father ?",can_an_occupation_permit_holder_apply_for_a_residence_permit_in_favour_of_his_spouse_common_law_partner_legitimate_child_step_child_lawfully_adopted_child_mother_and_father
+My Occupation Permit will expire on...... and I have already applied for the renewal. Should I extend my visa?,my_occupation_permit_will_expire_on....._and_i_have_already_applied_for_the_renewal_should_i_extend_my_visa
+Where should I collect my dependent permits and my UID Card?,where_should_i_collect_my_dependent_permits_and_my_uid_card
+I wish to apply for an Occupation Permit for a carer. Where should I apply?,i_wish_to_apply_for_an_occupation_permit_for_a_carer_where_should_i_apply
+"My dependents are abroad, can I apply for dependents permits in their favour?",my_dependents_are_abroad_can_i_apply_for_dependents_permits_in_their_favour
+What are the documents to be submitted for application / renewal of a Residence Permit for a non citizen?,what_are_the_documents_to_be_submitted_for_application_renewal_of_a_residence_permit_for_a_non_citizen
+Can a non citizen apply for a Residence Permit to work in Mauritius with a Tourist visa.,can_a_non_citizen_apply_for_a_residence_permit_to_work_in_mauritius_with_a_tourist_visa
+Where to submit an application for Residence Permit for a non citizen?,where_to_submit_an_application_for_residence_permit_for_a_non_citizen
+Does an employer have the right to retain the passport of a non citizen?,does_an_employer_have_the_right_to_retain_the_passport_of_a_non_citizen
+Request for information on school fees (pre primary-secondary),request_for_information_on_school_fees_(pre_primary-secondary)
+Request for Refund of HSC/SC Exams,request_for_refund_of_hscsc_exams
+Query regarding the distribution of Textbooks,query_regarding_the_distribution_of_textbooks
+Bullying and harassment in schools,bullying_and_harassment_in_schools
+Request for School Bus,request_for_school_bus
+Demande d’information sur les frais de scolarité (préprimaire-secondaire),demande_d’information_sur_les_frais_de_scolarité_(préprimaire-secondaire)
+Demande de remboursement des examens HSC/SC,demande_de_remboursement_des_examens_hscsc
+"Demande de reconnaissance de certificat à la MQA
+
+(i) Combien de temps faut-il à MQA pour traiter la demande d’enregistrement / accréditation ?
+
+
+
+(ii) Qu’est-ce que la reconnaissance et l’équivalence des qualifications ?","demande_de_reconnaissance_de_certificat_à_la_mqa
+
+(i)_combien_de_temps_faut-il_à_mqa_pour_traiter_la_demande_d’enregistrement_accréditation_
+
+
+
+(ii)_qu’est-ce_que_la_reconnaissance_et_l’équivalence_des_qualifications"
+Requête concernant la distribution des manuels scolaires,requête_concernant_la_distribution_des_manuels_scolaires
+Mise à niveau de la licence d’enseignement,mise_à_niveau_de_la_licence_d’enseignement
+Demande de transfert d’une école privée à une école publique,demande_de_transfert_d’une_école_privée_à_une_école_publique
+Demande d’admission à l’école publique,demande_d’admission_à_l’école_publique
+L’intimidation et le harcèlement à l’école,l’intimidation_et_le_harcèlement_à_l’école
+Requête sur la distribution de manuels scolaires en gros caractères pour les élèves ayant une déficience visuelle,requête_sur_la_distribution_de_manuels_scolaires_en_gros_caractères_pour_les_élèves_ayant_une_déficience_visuelle
+"Demande de remboursement des frais d’examen auprès des établissements d’enseignement supérieur dans le cadre du programme d’enseignement gratuit
+
+(i) La HEC offre-t-elle une aide financière aux étudiants pour poursuivre des études de premier cycle ?
+
+
+
+
+
+
+
+
+(ii) HEC fournit-elle une assistance financière aux étudiants pour qu’ils puissent lire en Master ?","demande_de_remboursement_des_frais_d’examen_auprès_des_établissements_d’enseignement_supérieur_dans_le_cadre_du_programme_d’enseignement_gratuit
+
+(i)_la_hec_offre-t-elle_une_aide_financière_aux_étudiants_pour_poursuivre_des_études_de_premier_cycle 
+
+
+
+
+
+
+
+
+(ii)_hec_fournit-elle_une_assistance_financière_aux_étudiants_pour_qu’ils_puissent_lire_en_master"
+"Procédures et demande d’équivalence de certificat
+
+(i) Quels documents sont nécessaires pour la reconnaissance ?
+
+
+
+
+
+
+
+(ii) Quels sont les documents requis pour l’équivalence ?
+
+
+
+
+
+
+
+(iii) Comment puis-je demander la reconnaissance et/ou l’équivalence ?","procédures_et_demande_d’équivalence_de_certificat
+
+(i)_quels_documents_sont_nécessaires_pour_la_reconnaissance_
+
+
+
+
+
+
+
+(ii)_quels_sont_les_documents_requis_pour_l’équivalence_
+
+
+
+
+
+
+
+(iii)_comment_puis-je_demander_la_reconnaissance_etou_l’équivalence"
+Demande d’autobus scolaire,demande_d’autobus_scolaire
+What is the vision statement of the SENDESK?,what_is_the_vision_statement_of_the_sendesk
+What is the mission statement of the SENDESK?,what_is_the_mission_statement_of_the_sendesk
+What are the philosophical belief of the SENDESK?,what_are_the_philosophical_belief_of_the_sendesk
+What are the mottos of the SEN desk?,what_are_the_mottos_of_the_sen_desk
+What are the duties performed at the SEN DESK?,what_are_the_duties_performed_at_the_sen_desk
+How can I access a list of registered institutions in Mauritius?,how_can_i_access_a_list_of_registered_institutions_in_mauritius
+How can I access a list of accredited programmes?,how_can_i_access_a_list_of_accredited_programmes
+What is recognition of academic qualification?,what_is_recognition_of_academic_qualification
+What is equivalence of academic qualification?,what_is_equivalence_of_academic_qualification
+Why should I have recourse to equivalence?,why_should_i_have_recourse_to_equivalence
+What documents are needed for recognition?,what_documents_are_needed_for_recognition
+What are the documents required for equivalence?,what_are_the_documents_required_for_equivalence
+How can I determine recognition or equivalence of an academic qualification?,how_can_i_determine_recognition_or_equivalence_of_an_academic_qualification
+How would I know which field of study is in demand?,how_would_i_know_which_field_of_study_is_in_demand
+Where can I get a list of the subjects that are in demand?,where_can_i_get_a_list_of_the_subjects_that_are_in_demand
+Is there any specific requirement to enrol on a higher education programme?,is_there_any_specific_requirement_to_enrol_on_a_higher_education_programme
+What is the basic requirement to study medicine and dentistry in Mauritius?,what_is_the_basic_requirement_to_study_medicine_and_dentistry_in_mauritius
+What is the guarantee to enter job market after studies?,what_is_the_guarantee_to_enter_job_market_after_studies
+Does the HEC offers scholarships?,does_the_hec_offers_scholarships
+What are the scholarships that the HEC offers?,what_are_the_scholarships_that_the_hec_offers
+How many scholarships does the HEC offer?,how_many_scholarships_does_the_hec_offer
+What is the duration of the scholarships?,what_is_the_duration_of_the_scholarships
+Are the scholarships on a full-time basis only?,are_the_scholarships_on_a_full-time_basis_only
+What does the schoalrships cover?,what_does_the_schoalrships_cover
+How can I benefit the scholarship?,how_can_i_benefit_the_scholarship
+Would I be eligible for a stipend during the course of my studies?,would_i_be_eligible_for_a_stipend_during_the_course_of_my_studies
+How much is the stipend?,how_much_is_the_stipend
+When is the call for scholarships?,when_is_the_call_for_scholarships
+How do I apply for the scholarships?,how_do_i_apply_for_the_scholarships
+How would I know if I have been  awarded a scholarship?,how_would_i_know_if_i_have_been_awarded_a_scholarship
+Does the HEC provide financial assistance to researchers?,does_the_hec_provide_financial_assistance_to_researchers
+What are the different research schemes available?,what_are_the_different_research_schemes_available
+Who are eligible to apply for the schemes?,who_are_eligible_to_apply_for_the_schemes
+How would I be notify of the call for application?,how_would_i_be_notify_of_the_call_for_application
+How would I be notified if my application has been retained?,how_would_i_be_notified_if_my_application_has_been_retained
+Does the HEC provides financial assistance to students to pursue undergraduate degree?,does_the_hec_provides_financial_assistance_to_students_to_pursue_undergraduate_degree
+Does the HEC provides financial assistant to students to read for a Master degree?,does_the_hec_provides_financial_assistant_to_students_to_read_for_a_master_degree
+"Does the HEC provides any financial assistance to HEIs for the organisation of conference/workshops/seminar, etc?",does_the_hec_provides_any_financial_assistance_to_heis_for_the_organisation_of_conferenceworkshopsseminar_etc
+"How much funding can I expect to receive from HEC for the organissation of conference, workshops, seminars,etc?",how_much_funding_can_i_expect_to_receive_from_hec_for_the_organissation_of_conference_workshops_seminarsetc
+Who are the eligible institutions?,who_are_the_eligible_institutions
+What is HEC?,what_is_hec
+What is the role of the HEC?,what_is_the_role_of_the_hec
+What are the functions of the HEC?,what_are_the_functions_of_the_hec
+What is the MQA?,what_is_the_mqa
+What are the services provided by MQA?,what_are_the_services_provided_by_mqa
+What is the National Qualifications Framework (NQF)?,what_is_the_national_qualifications_framework_(nqf)
+What are the benefits of NQF and how can it help learners?,what_are_the_benefits_of_nqf_and_how_can_it_help_learners
+Can applications be made online?,can_applications_be_made_online
+How long does it take for MQA to process application for registration / accreditation?,how_long_does_it_take_for_mqa_to_process_application_for_registration_accreditation
+What is a non-award course?,what_is_a_non-award_course
+Does MQA provide courses?,does_mqa_provide_courses
+Do training institutions need to send courses for approval or accreditation at time of application for the Registration as training institution?,do_training_institutions_need_to_send_courses_for_approval_or_accreditation_at_time_of_application_for_the_registration_as_training_institution
+What is the difference between approval of course and accreditation of programme?,what_is_the_difference_between_approval_of_course_and_accreditation_of_programme
+What are the appeal procedures against the decision made by the MQA?,what_are_the_appeal_procedures_against_the_decision_made_by_the_mqa
+What is Recognition of Prior Learning (RPL)?,what_is_recognition_of_prior_learning_(rpl)
+What are the benefits of RPL?,what_are_the_benefits_of_rpl
+What is Recognition and Equivalence of Qualifications?,what_is_recognition_and_equivalence_of_qualifications
+"Request for recognition of certificate at MQA
+
+(i) How long does it take for MQA to process application for registration / accreditation?
+
+
+
+(ii) What is Recognition and Equivalence of Qualifications?","request_for_recognition_of_certificate_at_mqa
+
+(i)_how_long_does_it_take_for_mqa_to_process_application_for_registration_accreditation
+
+
+
+(ii)_what_is_recognition_and_equivalence_of_qualifications"
+Upgrading of Teaching License,upgrading_of_teaching_license
+Request for Transfer from Government School to Government School,request_for_transfer_from_government_school_to_government_school
+Request for Transfer from Private School to Government School,request_for_transfer_from_private_school_to_government_school
+Request for Admission to Government School,request_for_admission_to_government_school
+Request for transfer and allocation of school for Grade 7- Extended Programme,request_for_transfer_and_allocation_of_school_for_grade_7-_extended_programme
+Query about distribution of large print textbooks for Visually Impaired Student,query_about_distribution_of_large_print_textbooks_for_visually_impaired_student
+"Request for Refund of Examination Fees from Tertiary Institutions under the Free Education Programme
+
+(i) Does the HEC provides financial assistance to students to pursue undergraduate degree?
+
+
+
+
+
+
+(ii) Does the HEC provides financial assistant to students to read for a Master degree?","request_for_refund_of_examination_fees_from_tertiary_institutions_under_the_free_education_programme
+
+(i)_does_the_hec_provides_financial_assistance_to_students_to_pursue_undergraduate_degree
+
+
+
+
+
+
+(ii)_does_the_hec_provides_financial_assistant_to_students_to_read_for_a_master_degree"
+"Procedures and application for Equivalence of Certificate
+
+(i) What documents are needed for recognition?
+
+
+
+
+
+(ii) What are the documents required for equivalence?
+
+
+
+
+
+(iii)How do I apply for recognition and/or equivalence?","procedures_and_application_for_equivalence_of_certificate
+
+(i)_what_documents_are_needed_for_recognition
+
+
+
+
+
+(ii)_what_are_the_documents_required_for_equivalence
+
+
+
+
+
+(iii)how_do_i_apply_for_recognition_andor_equivalence"
+Appointment booking,form_appointment_book
+Slot booking,form_appointment_book
+MNIC office appointment booking,form_appointment_book
+MNIC office slot booking,form_appointment_book
+Passport service appointment booking,form_appointment_book
+Passport service slot booking,form_appointment_book
+vehicle doc registration appointment,form_appointment_book
+vehicle doc registration slot booking,form_appointment_book
+other doc registration appointment,form_appointment_book
+other doc registration slot booking,form_appointment_book
+cashier office appointment,form_appointment_book
+cashier office slot booking,form_appointment_book
+vehicle delivery appointment,form_appointment_book
+vehicle delivery slot booking,form_appointment_book
+other doc delivery appointment,form_appointment_book
+other doc slot booking,form_appointment_book
+batch submission appointment,form_appointment_book
+batch submission slot booking,form_appointment_book
+general services appointment,form_appointment_book
+general services slot booking,form_appointment_book
+pharmacy appointment,form_appointment_book
+pharmacy slot booking,form_appointment_book
+work and residence permit appointment,form_appointment_book
+work and residence permit slot booking,form_appointment_book
+visa extension appointment,form_appointment_book
+visa extension slot booking,form_appointment_book
+Residence permit appointment,form_appointment_book
+Residence permit slot booking,form_appointment_book
+Registrar Generals Department appointement,form_appointment_book
+Registrar Generals Department slot booking,form_appointment_book
+Mauritius National Identity Card Rose Hill appointment,form_appointment_book
+Mauritius National Identity Card Rose Hill slot booking,form_appointment_book
+Mauritius National Identity Card Port Louis appointment,form_appointment_book
+Mauritius National Identity Card Port Louis slot booking,form_appointment_book
+Dr Bruno Cheong Hospital Flacq appointment,form_appointment_book
+Dr Bruno Cheong Hospital Flacq slot booking,form_appointment_book
+Passport and Immigration Office slot booking,form_appointment_book
+Passport and Immigration Office appointment,form_appointment_book
+Maupass appointment booking,form_appointment_book
+Maupass slot booking,form_appointment_book
+Download certificate,form_download_certificate
+I want to download certificate,form_download_certificate
+can you help me in downloading birth certificate,form_download_certificate
+download marriage certificate,form_download_certificate
+get my certificate,form_download_certificate
+Raise a  ticket for your complaint,form_raise_ticket
+complaints regarding defective tube lights,form_raise_ticket
+complaints regarding discontinued pension,form_raise_ticket
+complaints or needs for payment date extension,form_raise_ticket
+need to know about site visits,form_raise_ticket
+need to know lack of government action in rebuilding ancient bridge,form_raise_ticket
+complaints regarding irregular water suppy timings,form_raise_ticket
+complaints regarding road damage caused by construction works,form_raise_ticket
+complaints regarding billing issue with myT claiming for a subscription fee,form_raise_ticket
+complaints or needs regarding financial difficulties,form_raise_ticket
+complaints or needs regarding assistance with immigration,form_raise_ticket
+complaints regarding abuse by neighbour,form_raise_ticket
+complaints or needs regarding water tanker grant,form_raise_ticket
+complaints or needs regarding electricity cutoff or power outage,form_raise_ticket
+complaints regarding accumulation of water in front of premises,form_raise_ticket
+complaints regarding abuse by neigbour,form_raise_ticket
+complaints regarding illegal construction by neighbour,form_raise_ticket
+complaints regarding flooding due to heavy rain,form_raise_ticket
+complaints regarding excessive toilet CWA bill,form_raise_ticket
+complaints regarding extension of house,form_raise_ticket
+complaints regarding problems caused by stray dogs in area,form_raise_ticket
+complaints regarding ordered item not getting received,form_raise_ticket
+complaints regarding product received is damaged or broken,form_raise_ticket
+complaints regarding getting charged more than once for the same transaction,form_raise_ticket
+complaints regarding quality of service provided,form_raise_ticket
+complaints regarding longer hours taking for refund project,form_raise_ticket
+complaints regarding wrong order being received,form_raise_ticket
+complaints regarding website/application functionality problems,form_raise_ticket
+complaints regarding rude or unhelpful customer service agent,form_raise_ticket
+complaints regarding account login issues,form_raise_ticket
+complaints regarding item/product not being as described on the website,form_raise_ticket
+complaints regarding product/item being out of stock even when it shows as available,form_raise_ticket
+complaints regarding product/item being overpriced,form_raise_ticket
+complaints regarding delayed delivery without any prior communication,form_raise_ticket
+complaints regarding unable to redeem voucher/coupon,form_raise_ticket
+complaints regarding manufacturing defect in the product,form_raise_ticket
+complaints regarding problems from the end of the service provider/customer service executive,form_raise_ticket
+complaints regarding the service provider not showing up for a scheduled appointment,form_raise_ticket
+complaints regarding the service provider not completing the work as promised,form_raise_ticket
+complaints regarding the service provider not providing the promised warranty or guarantee,form_raise_ticket
+complaints regarding the customer service representative not being knowledgeable about the product or service,form_raise_ticket
+complaints regarding the service provider not cleaning up after completing the work,form_raise_ticket
+complaints regarding the service provider damaging the property while performing the service,form_raise_ticket
+complaints regarding the service provider overcharging for the service provided,form_raise_ticket
+complaints regarding the service provider not providing a detailed invoice,form_raise_ticket
+complaints regarding the item received being expired or has a short expiry date,form_raise_ticket
+Raise a  ticket for your complaint in Bambous,form_raise_ticket
+Raise a  ticket for your complaint in Beau Bassin,form_raise_ticket
+Raise a  ticket for your complaint in Bel Air-Rivière Sèche,form_raise_ticket
+Raise a  ticket for your complaint in Black River,form_raise_ticket
+Raise a  ticket for your complaint in Bois des Amourettes,form_raise_ticket
+Raise a  ticket for your complaint in Central Flacq,form_raise_ticket
+Raise a  ticket for your complaint in Chemin Grenier,form_raise_ticket
+Raise a  ticket for your complaint in Cité Vallijee,form_raise_ticket
+Raise a  ticket for your complaint in Colline Monneron,form_raise_ticket
+Raise a  ticket for your complaint in Curepipe,form_raise_ticket
+Raise a  ticket for your complaint in Floreal,form_raise_ticket
+Raise a  ticket for your complaint in Goodlands,form_raise_ticket
+Raise a  ticket for your complaint in Grand Bay,form_raise_ticket
+Raise a  ticket for your complaint in Grand Bois,form_raise_ticket
+Raise a  ticket for your complaint in Lallmatie,form_raise_ticket
+Raise a  ticket for your complaint in Mahebourg,form_raise_ticket
+Raise a  ticket for your complaint in Midlands,form_raise_ticket
+Raise a  ticket for your complaint in Montagne Blanche,form_raise_ticket
+Raise a  ticket for your complaint in Montagne Longue,form_raise_ticket
+Raise a  ticket for your complaint in Pamplemousses,form_raise_ticket
+Raise a  ticket for your complaint in Petite Rivière,form_raise_ticket
+Raise a  ticket for your complaint in Piton,form_raise_ticket
+Raise a  ticket for your complaint in Plaine Magnien,form_raise_ticket
+Raise a  ticket for your complaint in Pointe aux Sables,form_raise_ticket
+Raise a  ticket for your complaint in Quartier Militaire,form_raise_ticket
+Raise a  ticket for your complaint in Quatre Bornes,form_raise_ticket
+Raise a  ticket for your complaint in Rivière des Anguilles,form_raise_ticket
+Raise a  ticket for your complaint in Rivière du Rempart,form_raise_ticket
+Raise a  ticket for your complaint in Rose Belle,form_raise_ticket
+Raise a  ticket for your complaint in Rose Hill,form_raise_ticket
+Raise a  ticket for your complaint in Route Nicolay,form_raise_ticket
+Raise a  ticket for your complaint in St Pierre,form_raise_ticket
+Raise a  ticket for your complaint in Ste Croix,form_raise_ticket
+Raise a  ticket for your complaint in Triolet,form_raise_ticket
+Raise a  ticket for your complaint in Vacoas,form_raise_ticket
+View/check ticket status,form_view_ticket_status
+I want to know the status of my ticket,form_view_ticket_status
+what is my ticket status,form_view_ticket_status
+status of ticket number 123456,form_view_ticket_status
+what is the status of my ticket,form_view_ticket_status
+How can an individual create an online account to access the Merp system,how_can_an_individual_create_an_online_account_to_access_the_merp_system
+What are the step involved in submitting documents,what_are_the_step_involved_in_submitting_documents
+Are there specific file formats or size limits for documents uploads in the online system,are_there_specific_file_formats_or_size_limits_for_documents_uploads_in_the_online_system
+can users track the status of their submissions after they are uploaded to the system,can_users_track_the_status_of_their_submissions_after_they_are_uploaded_to_the_system
+what are the steps following the submissions of documents,what_are_the_steps_following_the_submissions_of_documents
+What payment options are available ?,what_payment_options_are_available
+Is there a confirmation or receipt provided upon succeesful payment of fees for online submissions?,is_there_a_confirmation_or_receipt_provided_upon_succeesful_payment_of_fees_for_online_submissions
+How can the registered deed be collected,how_can_the_registered_deed_be_collected
+What are the primary functions of the Registrar General Department,what_are_the_primary_functions_of_the_registrar_general_department
+How does the Registrar General Department facilitates property transactions?,how_does_the_registrar_general_department_facilitates_property_transactions
+What is the role of the registration department in enforcing tax and duty obligations related to property transactions?,what_is_the_role_of_the_registration_department_in_enforcing_tax_and_duty_obligations_related_to_property_transactions
+How does the staffing structure of the Registrar General department  support its function?,how_does_the_staffing_structure_of_the_registrar_general_department_support_its_function
+Who oversees the operations of the registrar general department ?,who_oversees_the_operations_of_the_registrar_general_department
+How are staff members assigned to different roles within the registration department?,how_are_staff_members_assigned_to_different_roles_within_the_registration_department
+How does the registrar general department ensure efficiency and accuracyin its operations?,how_does_the_registrar_general_department_ensure_efficiency_and_accuracyin_its_operations
+How does the registrar general department handle customer inquiries and complaints?,how_does_the_registrar_general_department_handle_customer_inquiries_and_complaints
+Does the Registrar general department provide information about its achievements,does_the_registrar_general_department_provide_information_about_its_achievements
+What documents are required for the registration of motor vehicles?,what_documents_are_required_for_the_registration_of_motor_vehicles
+What is the time limit for submitting the required documents for vehicle registration,what_is_the_time_limit_for_submitting_the_required_documents_for_vehicle_registration
+What penalty is applicable for failing to submit the required documents within the specified timeframe?,what_penalty_is_applicable_for_failing_to_submit_the_required_documents_within_the_specified_timeframe
+"What duty is leviable for the registration of motor vehicles, and where can I find the applicable rates?",what_duty_is_leviable_for_the_registration_of_motor_vehicles_and_where_can_i_find_the_applicable_rates
+"What duty is leviable for the registration of  electric motor vehicles, and where can I find the applicable rates?",what_duty_is_leviable_for_the_registration_of_electric_motor_vehicles_and_where_can_i_find_the_applicable_rates
+Are there any exemptions from registration duty for certain types of transfer of vehicle ?,are_there_any_exemptions_from_registration_duty_for_certain_types_of_transfer_of_vehicle
+What documentation is required to qualify for the exemption from registration duty for sales between ascendants and descendants?,what_documentation_is_required_to_qualify_for_the_exemption_from_registration_duty_for_sales_between_ascendants_and_descendants
+What documentation is required to qualify for the exemption from registration duty for sales between co-heirs?,what_documentation_is_required_to_qualify_for_the_exemption_from_registration_duty_for_sales_between_co-heirs
+Where can individuals check for exemption from registration duty/tax?,where_can_individuals_check_for_exemption_from_registration_dutytax
+Can individuals appeal the imposition of penalties for late submission of registration documents?,can_individuals_appeal_the_imposition_of_penalties_for_late_submission_of_registration_documents
+What duty is leviable for the registration of motor vehicles between spouse,what_duty_is_leviable_for_the_registration_of_motor_vehicles_between_spouse
+What documentation is required for transfer of motor vehicle between spouse,what_documentation_is_required_for_transfer_of_motor_vehicle_between_spouse
+What documents are required for the lease of immovable property?,what_documents_are_required_for_the_lease_of_immovable_property
+"What is the duty applicable for the lease of immovable property, and how is it calculated?",what_is_the_duty_applicable_for_the_lease_of_immovable_property_and_how_is_it_calculated
+What is the time limit for submitting the lease document for registration?,what_is_the_time_limit_for_submitting_the_lease_document_for_registration
+What penalty is applicable for late submission of the lease document for registration?,what_penalty_is_applicable_for_late_submission_of_the_lease_document_for_registration
+Are there any exemptions from duty for certain types of lease agreements?,are_there_any_exemptions_from_duty_for_certain_types_of_lease_agreements
+Can individuals extend the lease period after the initial registration?,can_individuals_extend_the_lease_period_after_the_initial_registration
+How can individuals calculate the duty payable for their lease agreement?,how_can_individuals_calculate_the_duty_payable_for_their_lease_agreement
+What is the duty applicable for the transfer of shares that does not reckon property?,what_is_the_duty_applicable_for_the_transfer_of_shares_that_does_not_reckon_property
+What is the time limit for submitting the transfer of shares documents?,what_is_the_time_limit_for_submitting_the_transfer_of_shares_documents
+What form should be used for submitting the transfer of shares documents that do not reckon property?,what_form_should_be_used_for_submitting_the_transfer_of_shares_documents_that_do_not_reckon_property
+What are the requirements for submitting transfer of shares documents that reckon property?,what_are_the_requirements_for_submitting_transfer_of_shares_documents_that_reckon_property
+Are there any specific formats or templates available for preparing the deeds of transfer for shares?,are_there_any_specific_formats_or_templates_available_for_preparing_the_deeds_of_transfer_for_shares
+What is the duty applicable for transfer of shares that reckons property?,what_is_the_duty_applicable_for_transfer_of_shares_that_reckons_property
+what are additional documents which have to be submitted together with the transfer of shares deed,what_are_additional_documents_which_have_to_be_submitted_together_with_the_transfer_of_shares_deed
+Can individuals seek assistance or clarification from the registrar general department regarding the requirements for transferring shares?,can_individuals_seek_assistance_or_clarification_from_the_registrar_general_department_regarding_the_requirements_for_transferring_shares
+"Does transfer of shares of companies, the securities of which are listed on the official list of the stock exchange of Mauritius need to be registered?",does_transfer_of_shares_of_companies_the_securities_of_which_are_listed_on_the_official_list_of_the_stock_exchange_of_mauritius_need_to_be_registered
+Is duty leviable where a company acqures its own shares ?,is_duty_leviable_where_a_company_acqures_its_own_shares
+Is land transfer tax  payable for deed witnessing transfer of shares.,is_land_transfer_tax_payable_for_deed_witnessing_transfer_of_shares
+What is the duty applicable for the transfer of parts social in a partnership or in a societe which does not reckons property?,what_is_the_duty_applicable_for_the_transfer_of_parts_social_in_a_partnership_or_in_a_societe_which_does_not_reckons_property
+"What is the registration duty rate for building contracts for the erection, repair, or maintenance of a building or the supply of goods?",what_is_the_registration_duty_rate_for_building_contracts_for_the_erection_repair_or_maintenance_of_a_building_or_the_supply_of_goods
